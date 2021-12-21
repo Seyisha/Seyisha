@@ -5,6 +5,6 @@
 - 📫 How to reach me oluxhei@gmail
 
 <!---
-Seyisha/Seyisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seyisha/Seyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
